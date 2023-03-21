@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://MayankGoel:MayIIITH@cluster0.zntxhwr.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"MayIIITH"
+}
